@@ -21,3 +21,5 @@ Virtual internship in Teachnook (in collaboration with Aican Automate)
 6. ## Match Situation Analytics:
     Designed dynamic features within the tool to analyze match situations, such as runs scored by a player in particular over, a player's dismissals by type, and bowlers' dot ball contributions. Employed interactive user input to generate on-demand insights, including runs scored and wickets taken in the death overs, contributing to a comprehensive understanding of critical moments in IPL matches.
 
+# Design and Implementation of Machine Learning Algorithms from Scratch
+- Constructed Linear and Kernel Regression models, K-means clustering, Perceptron Learning Algorithm, SVM, and Neural Networks from scratch using Python, focusing on algorithmic development and foundational machine learning principles without the use of pre-built libraries.
